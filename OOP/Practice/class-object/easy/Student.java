@@ -24,7 +24,7 @@ public class Student {
     public void setStudentUniqueId(int studentUniqueId) {
         this.studentUniqueId = studentUniqueId;
     }
-
+    
     public int getAge() {
         return age;
     }
