@@ -28,6 +28,7 @@ public class AddTwoNumbers {
             
             if(current1 != null) {
                 sum += current1.val;
+                
                 current1 = current1.next;
             }
             
