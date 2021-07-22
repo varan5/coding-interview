@@ -1,6 +1,5 @@
 package com.company;
 
-// Algorithmic Complexities
 // Time:  O(n) - Where 'n' is the length of the string
 // Space: O(1) - Since, we are using variables of constant space
 
@@ -13,11 +12,10 @@ public class Coding {
             temporaryCharacter = string[startIndex];
             string[startIndex] = string[endIndex];
             string[endIndex] = temporaryCharacter;
-            
+         
             startIndex ++;
             endIndex --;
         }
-        
         return string;
     }
 }
