@@ -14,4 +14,5 @@ public class IsRotation {
 
 		return false;
 	}
+
 }
