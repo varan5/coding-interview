@@ -13,7 +13,6 @@ public class Code {
         }
       }
     }
-    
     return new int[] {-1, -1};
   }
 }
