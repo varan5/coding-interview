@@ -13,7 +13,6 @@ public class ReverseLinkedList {
         if(head == null) {
             return head;
         }
-    
         ListNode newHead = null;
         
         while(head != null) {
