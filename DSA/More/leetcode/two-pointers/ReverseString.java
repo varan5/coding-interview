@@ -10,7 +10,6 @@ public class ReverseString {
         }
         
         char[] word = s.toCharArray();
-        
         for(int i = 0, j = s.length() - 1; i < j; i++, j--) {
             char temp = word[i];
             word[i] = word[j];
