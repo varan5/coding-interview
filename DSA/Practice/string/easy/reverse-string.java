@@ -12,7 +12,6 @@ public class Coding {
             temporaryCharacter = string[startIndex];
             string[startIndex] = string[endIndex];
             string[endIndex] = temporaryCharacter;
-         
             startIndex ++;
             endIndex --;
         }
