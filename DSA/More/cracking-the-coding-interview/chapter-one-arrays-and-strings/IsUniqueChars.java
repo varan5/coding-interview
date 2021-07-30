@@ -10,6 +10,7 @@ public class IsUniqueChars {
             }
             checker |= (1 << val);
         }
+
         return true;
     }
 }
