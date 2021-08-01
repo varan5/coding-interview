@@ -1,8 +1,7 @@
 package com.company.oop;
 
-class Person //entity
-{
- //data members
+class Person //entity {
+            //data members
  int age;
  String name;
 
