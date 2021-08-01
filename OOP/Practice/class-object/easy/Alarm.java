@@ -1,7 +1,6 @@
 package com.company.oop;
 
-class Alarm
-{
+class Alarm {
  String alarmTime;
  String ringTone;
  String repeat;
