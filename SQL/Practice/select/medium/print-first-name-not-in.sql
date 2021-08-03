@@ -2,5 +2,4 @@ Write an SQL query to print details of workers excluding first names, â€œVipulâ€
 
 
 
-
 SELECT * FROM Worker WHERE FIRST_NAME NOT IN ('Vipul', 'Satish');
